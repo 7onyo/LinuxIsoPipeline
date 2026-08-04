@@ -1,0 +1,10 @@
+#!/bin/sh
+
+
+lb config noauto \
+--distribution trixie \
+--architecture amd64 \
+--archive-areas 'main contrib non-free non-free-firmware' \
+--iso-volume custom_iso \
+
+"${@}"
