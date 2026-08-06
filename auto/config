@@ -1,6 +1,5 @@
 #!/bin/sh
 
-
 lb config noauto \
 --distribution trixie \
 --architecture amd64 \
