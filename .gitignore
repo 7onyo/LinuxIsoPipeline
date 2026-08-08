@@ -17,3 +17,8 @@
 # Un-ignore Python Stuff
 !upload.py
 !requirements.txt
+
+
+# Un-ignore README and License
+!README.md
+!LICENSE

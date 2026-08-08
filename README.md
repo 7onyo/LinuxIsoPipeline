@@ -1,0 +1,1 @@
+[![Download ISO](https://img.shields.io/badge/Download_ISO-0052FF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pub-e133abef1fd54139b9dfa2b607bb2a83.r2.dev/live-image-amd64.hybrid.iso)
