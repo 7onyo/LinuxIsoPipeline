@@ -1,5 +1,6 @@
 *
 
+# Un-ignore Iso Stuff
 !.gitignore
 !build.sh
 
@@ -13,3 +14,6 @@
 !config/**
 
 
+# Un-ignore Python Stuff
+!upload.py
+!requirements.txt
